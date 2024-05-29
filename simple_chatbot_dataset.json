@@ -1,0 +1,15 @@
+{
+    "conversations": [
+      {"input": "hello,hey,hi,good day,Greetings,what's up?,how is it going?", "response": "Hello!What can I do for you?How's it going?What's on your mind today"},
+      {"input": "How are you,is anyone there?", "response": "Hello, thanks for asking,Good to see you again,Hi there, how can I help?"},
+      {"input": "what is your name?,name?,who are you?,what should I call you?", "response": "HEY!My name is simplebot,you can call me simplebot"},
+      {"input": "what does HTML stands for?", "response": "HTML stands for Hypertext Markup Language"},
+      {"input": "what does CSS stands for?", "response": "CSS stands for Cascading Style Sheets"},
+      {"input": "what do you when you get bored?", "response": "when i get bored i usually watch a movie.how about you?what you to do when you're feeling bored?"},
+      {"input": "when i get bored.....", "response": "that's nice to here!anything you want to share with me?"},
+      {"input": "do you know what i'm interested about?", "response": "by guessing with previous chats,I think you are interested in programming!,I like to know more about what interests you! "},
+      {"input": "Thanks,Thank you,That's helpful,Awesome, thanks,Thanks for helping me","response":"Happy to help!,Any time!,My pleasure"},
+      {"input": "         ","response": "Sorry, can't understand you,Please give me more info, Not sure I understand"},
+      {"input": "Bye,See you later,Goodbye,Nice chatting to you, bye,Till next time","response": "See you!,Have a nice day,Bye!Come back again soon"}        ]
+  }
+  
